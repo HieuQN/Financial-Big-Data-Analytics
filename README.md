@@ -3,10 +3,10 @@
 This repo contains several interesting projects using machine learning methods ranging from:
 
 1. Regression [Bankruptcy Prediction](Bankruptcy_Prediction_via_Regression.ipynb)
-2. K-mean Clustering [Stock Movement] (Stock-Movement-with-KmeanClustering.ipynb)
-3. Support Vector Machine [Credit Card Application] (Support_Vector_Machine_Template_for_Credit_Card_Applications.ipynb)
-4. Reinforment Learning [Reinforcement Learning] (Reinforcement-Learning.ipynb)
-5. Deep Neural Network [Insurance Purchase Prediction] (Insurance_Purchase_Prediction_Using_Deep_Neural_Network.ipynb)
+2. K-mean Clustering [Stock Movement](Stock-Movement-with-KmeanClustering.ipynb)
+3. Support Vector Machine [Credit Card Application](Support_Vector_Machine_Template_for_Credit_Card_Applications.ipynb)
+4. Reinforment Learning [Reinforcement Learning](Reinforcement-Learning.ipynb)
+5. Deep Neural Network [Insurance Purchase Prediction](Insurance_Purchase_Prediction_Using_Deep_Neural_Network.ipynb)
 6. Big Data with PySpark 
 
 There are also many interesting data preprocessing methods such as :
