@@ -1,4 +1,4 @@
-# MATH5671-Big-Data-Analysis
+# Big-Data-Analysis
 
 This repo contains several interesting projects using machine learning methods ranging from:
 
