@@ -2,7 +2,7 @@
 
 This repo contains several interesting projects using machine learning methods ranging from:
 
-1. Regression
+1. Regression (Bankruptcy_Prediction_via_Regression.ipynb)
 2. K-mean Clustering
 3. Support Vector Machine
 4. Reinforment Learning
